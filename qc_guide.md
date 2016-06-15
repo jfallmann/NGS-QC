@@ -1,4 +1,6 @@
+#Collection of papers about NGS-QC and short summary
 
+##A quality control system for profiles obtained by ChIP sequencing
 
 [A quality control system for profiles obtained by ChIP sequencing][Mendoza-Parra2013]
 
@@ -41,10 +43,10 @@
           *  Allows comparison of sample with a database of samples scored by quality 
   
 
+##A survey of best practices for RNA-seq data analysis
 
 [A survey of best practices for RNA-seq data analysis][Conesa2016]
-
-[A survey of best practices for RNA-seq data analysis]: http://genomebiology.com/2016/17/1/13 "A survey of best practices for RNA-seq data analysis"
+[Conesa2016]: http://genomebiology.com/2016/17/1/13 "A survey of best practices for RNA-seq data analysis"
 
   * Quality Control Checkpoints
       * Raw Reads
@@ -79,6 +81,7 @@
 	[Read mapping and transcript identification strategies][Conesa2016]
 	[Read mapping and transcript identification strategies]: https://static-content.springer.com/image/art%3A10.1186%2Fs13059-016-0881-8/MediaObjects/13059_2016_881_Fig2_HTML.gif "A survey of best practices for RNA-seq data analysis, Figure 2"
 
+##Sequencing depth and coverage: key considerations in genomic analyses
 
 [Sequencing depth and coverage: key considerations in genomic analyses][Sims2014]
 
