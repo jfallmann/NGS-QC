@@ -37,6 +37,7 @@
   *  How to get a hint if quality of samples is ok?
       *  Quality Control Generator
           *  [NGS Quality Control Generator][NGSQC]
+			 [NGSQC]: http://www.ngs-qc.org/ "NGS Quality Control Generator"
           *  Allows comparison of sample with a database of samples scored by quality 
   
 
@@ -45,8 +46,6 @@
 
 [A survey of best practices for RNA-seq data analysis]: http://genomebiology.com/2016/17/1/13 "A survey of best practices for RNA-seq data analysis"
 
-	![RNA-Seq analysis roadmap](https://static-content.springer.com/image/art%3A10.1186%2Fs13059-016-0881-8/MediaObjects/13059_2016_881_Fig1_HTML.gif)
-	
   * Quality Control Checkpoints
       * Raw Reads
       * Read alignment
@@ -74,13 +73,16 @@
       * Long-read sequencing
       * 
 
-	![Read mapping and transcript identification strategies](https://static-content.springer.com/image/art%3A10.1186%2Fs13059-016-0881-8/MediaObjects/13059_2016_881_Fig2_HTML.gif)
+	[RNA-Seq analysis roadmap][Conesa2016]
+	[RNA-Seq analysis roadmap]: https://static-content.springer.com/image/art%3A10.1186%2Fs13059-016-0881-8/MediaObjects/13059_2016_881_Fig1_HTML.gif "A survey of best practices for RNA-seq data analysis, Figure 1"
+	
+	[Read mapping and transcript identification strategies][Conesa2016]
+	[Read mapping and transcript identification strategies]: https://static-content.springer.com/image/art%3A10.1186%2Fs13059-016-0881-8/MediaObjects/13059_2016_881_Fig2_HTML.gif "A survey of best practices for RNA-seq data analysis, Figure 2"
 
 
 [Sequencing depth and coverage: key considerations in genomic analyses][Sims2014]
 
 [Sequencing depth and coverage: key considerations in genomic analyses]: http://www.nature.com/doifinder/10.1038/nrg3642 "Sequencing depth and coverage: key considerations in genomic analyses"
 
-[NGSQC]: http://www.ngs-qc.org/ "NGS Quality Control Generator"
 
 
