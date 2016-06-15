@@ -75,11 +75,11 @@
       * Long-read sequencing
       * 
 
-	[RNA-Seq analysis roadmap][Conesa2016]
-	[RNA-Seq analysis roadmap]: https://static-content.springer.com/image/art%3A10.1186%2Fs13059-016-0881-8/MediaObjects/13059_2016_881_Fig1_HTML.gif "A survey of best practices for RNA-seq data analysis, Figure 1"
+[RNA-Seq analysis roadmap][Conesa2016]
+[Conesa2016]: https://static-content.springer.com/image/art%3A10.1186%2Fs13059-016-0881-8/MediaObjects/13059_2016_881_Fig1_HTML.gif "A survey of best practices for RNA-seq data analysis, Figure 1"
 	
-	[Read mapping and transcript identification strategies][Conesa2016]
-	[Read mapping and transcript identification strategies]: https://static-content.springer.com/image/art%3A10.1186%2Fs13059-016-0881-8/MediaObjects/13059_2016_881_Fig2_HTML.gif "A survey of best practices for RNA-seq data analysis, Figure 2"
+[Read mapping and transcript identification strategies][Conesa2016]
+[Conesa2016]: https://static-content.springer.com/image/art%3A10.1186%2Fs13059-016-0881-8/MediaObjects/13059_2016_881_Fig2_HTML.gif "A survey of best practices for RNA-seq data analysis, Figure 2"
 
 ##Sequencing depth and coverage: key considerations in genomic analyses
 
