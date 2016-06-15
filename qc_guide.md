@@ -84,8 +84,7 @@
 ##Sequencing depth and coverage: key considerations in genomic analyses
 
 [Sequencing depth and coverage: key considerations in genomic analyses][Sims2014]
-
-[Sequencing depth and coverage: key considerations in genomic analyses]: http://www.nature.com/doifinder/10.1038/nrg3642 "Sequencing depth and coverage: key considerations in genomic analyses"
+[Sims2014]: http://www.nature.com/doifinder/10.1038/nrg3642 "Sequencing depth and coverage: key considerations in genomic analyses"
 
 
 
