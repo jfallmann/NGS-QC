@@ -1,3 +1,8 @@
+#NGS technologies most used
+http://ngsperspectives.com/wp-content/uploads/2014/02/1_primary-sequencing.jpg
+
+
+
 #Collection of papers about NGS-QC and short summary
 
 ##A quality control system for profiles obtained by ChIP sequencing
