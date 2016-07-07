@@ -1,7 +1,5 @@
 #NGS technologies most used
-http://ngsperspectives.com/wp-content/uploads/2014/02/1_primary-sequencing.jpg
-
-
+![NGS applications ranked by number of publications in PubMed](Pubmed_Sequencing_2016_06_04.svg)
 
 #Collection of papers about NGS-QC and short summary
 
@@ -34,8 +32,8 @@ http://ngsperspectives.com/wp-content/uploads/2014/02/1_primary-sequencing.jpg
   * What depth saturated binding?
       * ChIP
           * sampling -> compare peaks
-              *  does # of peaks change of only peak height?
-                  *  # of peaks bad, peak heigth ok, as less signal was used
+              *  does \# of peaks change of only peak height?
+                  *  \# of peaks bad, peak heigth ok, as less signal was used
       *  RNA-Seq
           *  most stable as no manipulation like crosslinking or IP neccessary
       *  IP-based methods
@@ -92,4 +90,7 @@ http://ngsperspectives.com/wp-content/uploads/2014/02/1_primary-sequencing.jpg
 [Sims2014]: http://www.nature.com/doifinder/10.1038/nrg3642 "Sequencing depth and coverage: key considerations in genomic analyses"
 
 
+##Heat*seq: an interactive web tool for high-throughput sequencing experiment comparison with public data
+[HeatSeq][HeatSeq]
 
+[Devailly2016]: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btw407 "HeatSeq"
