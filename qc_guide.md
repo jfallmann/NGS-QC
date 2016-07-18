@@ -94,3 +94,15 @@
 [HeatSeq][HeatSeq]
 
 [Devailly2016]: http://bioinformatics.oxfordjournals.org/lookup/doi/10.1093/bioinformatics/btw407 "HeatSeq"
+
+##BaRC Standard operating procedures
+[BaRC-SOP][BaRC-SOP]
+
+[BaRC-SOP]: http://barcwiki.wi.mit.edu/wiki/SOPs "BaRC-SOP"
+
+##BaRC Standard operating procedures
+[RseQC][RseQC]
+
+[RseQC]: http://rseqc.sourceforge.net/ "RseQC"
+
+
