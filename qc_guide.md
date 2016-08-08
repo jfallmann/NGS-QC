@@ -105,4 +105,9 @@
 
 [RseQC]: http://rseqc.sourceforge.net/ "RseQC"
 
+##FASTQC QC guide
+[FastQC][FastQC]
+
+[FastQC]: http://www.bioinformatics.babraham.ac.uk/training/Sequence_QC_Course/Developing%20and%20Implementing%20QC.pdf "FastQC"
+
 
