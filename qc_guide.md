@@ -120,4 +120,4 @@
 
 ##Next Generation Sequencing Overview
 [Next Generation Sequencing Overview][NGS Overview]
-[NGS Overview] https://vlsci.github.io/lscc_docs/tutorials/ngs_overview/NGS_Overview/ "Next Generation Sequencing Overview"
+[NGS Overview]: https://vlsci.github.io/lscc\_docs/tutorials/ngs\_overview/NGS\_Overview/ "Next Generation Sequencing Overview"
